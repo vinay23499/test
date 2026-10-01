@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi
+=======
+Hi sir
+>>>>>>> f7df716 (file added)
